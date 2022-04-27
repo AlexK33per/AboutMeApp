@@ -50,8 +50,11 @@ dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
 drawable _634601274304
+drawable _80b57fcd9996e24bc43c53e
+drawable github
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable instagram_png_instagram_png_logo_1455
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low

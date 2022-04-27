@@ -8,8 +8,11 @@ color teal_200
 color teal_700
 color white
 drawable _634601274304
+drawable _80b57fcd9996e24bc43c53e
+drawable github
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable instagram_png_instagram_png_logo_1455
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
